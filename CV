@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My CV</title>
+    <title>Digital Banker</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -57,7 +57,7 @@
 <body>
     <header>
         <div class="container">
-            <h1>Preshanti Padayachee</h1>
+            <h1>Dineshri Ramasamy</h1>
             <ul>
                 <li><a href="#profile">Profile</a></li>
                 <li><a href="#experience">Experience</a></li>
@@ -178,9 +178,8 @@ Director of the Johannesburg Entity.
         </section>
         <section id="contact" class="section">
             <h2>Contact</h2>
-            <p>Email: shanti3.pillay@gmail.com</p>
-            <p>Phone: +27 84 799 9304</p>
-            <p>www.linkedin.com/in/preshanti-padayachee/</p>
+            <p>Email: Dineshri.Ramasamy@gmail.com</p>
+            <p>Phone: +27 74 446 1818</p>
         </section>
     </div>
 </body>
